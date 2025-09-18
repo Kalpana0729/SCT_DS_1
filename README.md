@@ -16,7 +16,7 @@ Build interactive dashboards to make global population insights easier to unders
 "Contents"
 -> world_population.csv → Dataset file.
 -> World_Population.pbix → Power BI project file.
--> Powerbi.png → Exported screenshot of the dashboard.
+-> powerbi.png → Exported screenshot of the dashboard.
 
 "Dashboard Insights"
 'Country & Continent-Level Visuals'
